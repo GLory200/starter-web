@@ -1,7 +1,10 @@
 # GLORY MANGI
 
+
 ## LEARNING GIT
 
-## HEY YOU 
+## HEY YOU
+ 
+## Deployment
 
 ## HOW TO MAKE A CHANGE
