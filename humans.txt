@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    glory -- mangi -- 21
 
 # THANKS
 
