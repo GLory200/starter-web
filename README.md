@@ -1,6 +1,6 @@
 
 # GLORY MANGI
- rebasing eg 
+ rebasing eg  changed some lines
 ## LEARNING GIT
  - this is simply intended to teach me how to handle differnt tools
 
