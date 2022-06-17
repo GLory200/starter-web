@@ -1,5 +1,6 @@
+
 # GLORY MANGI
- 
+ rebasing eg 
 ## LEARNING GIT
  - this is simply intended to teach me how to handle differnt tools
 
