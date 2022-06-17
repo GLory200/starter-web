@@ -6,7 +6,8 @@
     glory -- mangi -- 21
 
 # THANKS
-
+ 
+ to my students
     <name>
 
 # TECHNOLOGY COLOPHON
